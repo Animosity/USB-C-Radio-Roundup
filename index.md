@@ -25,11 +25,11 @@ Have or know about a USB-C radio not on the list? We want to know if works prope
 # USB-C Radios Tested
 | Radio Product Name  | Vendor | USB-C Charging? | USB-C Data? | Notes | Reference/Source |
 | ------------- | ------------- | ------------- | ------------- | ------------- | -------------|
-| UV-K5  | Quansheng  |  Yes. Only with USB-A to USB-C cable! | No | No USB-C Sink terminations, cannot use USB-C-only cables and chargers. | Tested by KK7LXU 
-| RB17V | Retevis  |  Yes. Only with USB-A to USB-C cable! | No | No USB-C Sink terminations, cannot use USB-C-only cables and chargers. | Tested by KJ6LNN 
-| H3 | TIDRADIO  |  Yes. Only with USB-A to USB-C cable! | No | No USB-C Sink terminations, cannot use USB-C-only cables and chargers. | Tested by wojo @ HRCC Discord 
-| H8 (Gen 1) | TIDRADIO  |  Only with USB-A to USB-C cable! | No | No USB-C Sink terminations, cannot use USB-C-only cables and chargers. | Tested by KK7LXU 
-| H8 (Gen 2) | TIDRADIO  |  Only with USB-A to USB-C cable! | No | No USB-C Sink terminations, cannot use USB-C-only cables and chargers. | Tested by KK7LXU
-| X6100 | XIEGU  |  No. | 2x USB-C data (USB2) ports: Host & Device | No USB-C Sink terminations, cannot use USB-C-only cables. | Tested by KK7LXU
+| UV-K5  | Quansheng  |  Yes. Only with USB-A to USB-C cable! | No | Naughty! No USB-C Sink terminations, cannot use USB-C-only cables and chargers. | Tested by KK7LXU 
+| RB17V | Retevis  |  Yes. Only with USB-A to USB-C cable! | No | Naughty! No USB-C Sink terminations, cannot use USB-C-only cables and chargers. | Tested by KJ6LNN 
+| H3 | TIDRADIO  |  Yes. Only with USB-A to USB-C cable! | No | Naughty! No USB-C Sink terminations, cannot use USB-C-only cables and chargers. | Tested by wojo @ HRCC Discord 
+| H8 (Gen 1) | TIDRADIO  |  Only with USB-A to USB-C cable! | No | Naughty! No USB-C Sink terminations, cannot use USB-C-only cables and chargers. | Tested by KK7LXU 
+| H8 (Gen 2) | TIDRADIO  |  Only with USB-A to USB-C cable! | No | Naughty! No USB-C Sink terminations, cannot use USB-C-only cables and chargers. | Tested by KK7LXU
+| X6100 | XIEGU  |  No. | 2x USB-C data (USB2) ports: Host & Device | Naughty! No USB-C Sink terminations, cannot use USB-C-only cables. | Tested by KK7LXU
 
 
