@@ -5,8 +5,9 @@ This list is intended to inform ham/shortwave radio buyers about the available U
 There have been good & bad implementations of USB-C brought to market and this table summarizes the basic facts about each USB-C port.
 
 ## How to Help
-Have or know about a USB-C radio not on the list? We want to know if works properly! 
-What you need:
+Have or know about a USB-C radio not on the list? We want to know if works properly! Feel free to modify and submit Pull Request with any new radio product info.
+
+### What you need:
 1) A known-good USB-C to USB-C cable
 2) A USB-C wall-wart charger/powerbank (with a USB-C receptacle)
 3) A USB-C radio
