@@ -25,7 +25,7 @@ Have or know about a USB-C radio not on the list? We want to know if works prope
 # USB-C Radios Tested
 | Radio Product Name  | Vendor | USB-C Charging? | USB-C Data? | Notes | Reference/Source |
 | ------------- | ------------- | ------------- | ------------- | ------------- | -------------|
-| 878  | Anytone  |  Yes. Only with USB-A to USB-C cable! | No | Naughty! No USB-C Sink terminations, cannot use USB-C-only cables and chargers. | Tested by wojo @ HRCC Discord
+| 878 USB-C Battery | Anytone  |  Yes. Only with USB-A to USB-C cable! | No | Naughty! No USB-C Sink terminations, cannot use USB-C-only cables and chargers. | Tested by wojo @ HRCC Discord
 | UV-K5  | Quansheng  |  Yes. Only with USB-A to USB-C cable! | No | Naughty! No USB-C Sink terminations, cannot use USB-C-only cables and chargers. | Tested by KK7LXU 
 | RB17V | Retevis  |  Yes. Only with USB-A to USB-C cable! | No | Naughty! No USB-C Sink terminations, cannot use USB-C-only cables and chargers. | Tested by KJ6LNN 
 | H3 | TIDRADIO  |  Yes. Only with USB-A to USB-C cable! | No | Naughty! No USB-C Sink terminations, cannot use USB-C-only cables and chargers. | Tested by wojo @ HRCC Discord 
