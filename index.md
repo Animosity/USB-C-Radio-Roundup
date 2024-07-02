@@ -13,7 +13,7 @@ There have been good & bad implementations of USB-C brought to market and this t
 | H3 | TIDRADIO  |  Yes. Only with USB-A to USB-C cable! | No | Naughty! No USB-C Sink terminations, cannot use USB-C-only cables and chargers. | Tested by wojo @ HRCC Discord 
 | H8 (Gen 1) | TIDRADIO  |  Only with USB-A to USB-C cable! | No | Naughty! No USB-C Sink terminations, cannot use USB-C-only cables and chargers. | Tested by KK7LXU 
 | H8 (Gen 2) | TIDRADIO  |  Only with USB-A to USB-C cable! | No | Naughty! No USB-C Sink terminations, cannot use USB-C-only cables and chargers. | Tested by KK7LXU
-| X6100 | XIEGU  |  No. | 2x USB-C data (USB2) ports: Host & Device | Naughty! No USB-C Sink terminations, cannot use USB-C-only cables. | Tested by KK7LXU
+| X6100 | XIEGU  |  No. | 2x USB-C data (USB2) ports: Host & Device | Naughty! USB Device port has no USB-C Sink termination, cannot use USB-C-only cables. USB Host port untested. | Tested by KK7LXU
 
 
 ## How to Help
