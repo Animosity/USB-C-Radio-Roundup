@@ -9,7 +9,7 @@ There have been good & bad implementations of USB-C brought to market (most radi
 | ------------- | ------------- | ------------- | ------------- | ------------- | -------------|
 | (Battery) QB-44HL USB-C Battery for AT-878UV/DMR-6X2 | Anytone/BTECH |  Yes. Only with USB-A to USB-C cable! | No | Naughty! No USB-C Sink terminations, cannot use USB-C-only cables and chargers.  | Tested by wojo @ HRCC Discord
 | (Mod) IC-705 KD9LJF USB-C/SEND Control Board Upgrade | Icom  |  Yes. | Yes - USB2 Device port. | Nice! Works with USB-C cables and chargers. | Tested by ...
-| ID-50A  | Icom  |  Yes. Only with USB-A to USB-C cable! | Yes - USB2 Device port. | UNTESTED with USB-C to USB-C cables. | UNTESTED - User Manual reference only
+| ID-50A  | Icom  |  Yes. Only with USB-A to USB-C cable! | Yes - USB2 Device port. | UNTESTED with USB-C to USB-C cables. | User Manual reference only
 | UV-K5  | Quansheng  |  Yes. Only with USB-A to USB-C cable! | No | Naughty! No USB-C Sink terminations, cannot use USB-C-only cables and chargers. | Tested by KK7LXU 
 | UV-K5(8)  | Quansheng  |  Yes. Only with USB-A to USB-C cable! | No | Naughty! No USB-C Sink terminations, cannot use USB-C-only cables and chargers. | Inferred by design similarity to Quansheng UV-K5
 | UV-K6  | Quansheng  |  Yes. Only with USB-A to USB-C cable! | No | Naughty! No USB-C Sink terminations, cannot use USB-C-only cables and chargers. | Inferred by design similarity to Quansheng UV-K5
