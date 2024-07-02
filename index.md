@@ -2,7 +2,7 @@
 
 This list is intended to inform ham/shortwave radio buyers about the available USB-C radios in the market and what their compatibility/quirks may be, and be perpetually updated by the community at-large.
 
-There have been good & bad implementations of USB-C brought to market and this table summarizes the basic facts about each USB-C port.
+There have been good & bad implementations of USB-C brought to market (most radios still can't charge from proper USB-C cables and chargers!) and this table summarizes the basic facts about each radio's USB-C ports. 
 
 # USB-C Radios Tested
 | Radio Product Name  | Vendor | USB-C Charging? | USB-C Data? | Notes | Reference/Source |
