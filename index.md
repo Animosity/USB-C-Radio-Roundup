@@ -19,7 +19,7 @@ There have been good & bad implementations of USB-C brought to market (most radi
 | TD-H8 (Gen 1) | TIDRADIO  |  Only with USB-A to USB-C cable! | No | Naughty! No USB-C Sink terminations, cannot use USB-C-only cables and chargers. | Tested by KK7LXU 
 | TD-H8 (Gen 2) | TIDRADIO  |  Only with USB-A to USB-C cable! | No | Naughty! No USB-C Sink terminations, cannot use USB-C-only cables and chargers. | Tested by KK7LXU
 | X6100 | XIEGU  |  No. | 2x USB2 ports: Host & Device | Naughty! USB Device port has no USB-C Sink termination, cannot use USB-C-only cables. USB Host port untested. | Tested by KK7LXU
-| X6200 | XIEGU  |  No. | 2x USB2 ports: Host & Device | TBD | UNTESTED
+| X6200 | XIEGU  |  No. | 2x USB2 ports: Host & Device | UNTESTED TBD | UNTESTED
 
 ## How to Help
 Have or know about a USB-C radio not on the list? We want to know if works properly! Feel free to modify and submit Pull Request with any new radio product info.
