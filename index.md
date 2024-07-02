@@ -1,4 +1,4 @@
-#USB-C Ham Radio Roundup
+# USB-C Ham Radio Roundup
 
 This list is intended to inform ham/shortwave radio buyers about the available USB-C radios in the market and what their compatibility/quirks may be, and be perpetually updated by the community at-large.
 
@@ -11,7 +11,7 @@ What you need:
 2) A USB-C wall-wart charger/powerbank (with a USB-C receptacle)
 3) A USB-C radio
 
-###How to test USB-C Charging:
+### How to test USB-C Charging:
 1) Connect your known-good USB-C/USB-C  cable to your USB-C charger
 2) Connect your USB-C radio to the USB-C/USB-C cable.
 3) Does the radio charge? If so, indicate Yes in the USB-C Charging column. Else, indicate No.
