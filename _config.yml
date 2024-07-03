@@ -12,7 +12,8 @@ collections:
 
 # Title
 name: USB-C Ham Radio Roundup
-theme: hacker
+#theme: jekyll-theme-minimal
+remote_theme: hacker
 title: USB-C Ham Radio Roundup
 description: Reviewing the USB-C charging and functionality of these ham radios
 
