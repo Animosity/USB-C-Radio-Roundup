@@ -6,6 +6,7 @@ This list is intended to inform ham/shortwave radio buyers about the available U
 There have been good & bad implementations of USB-C brought to market (most radios still can't charge from proper USB-C cables and chargers!) and this table summarizes the basic facts about each radio's USB-C ports. 
 
 # USB-C Radios Tested
+
 | Radio Product Name                                   | Vendor        | USB A-to-C Charging?                 | USB C-to-C Charging? | USB-C Data?                                     | Notes                                                                                                           |                 Reference/Source                           |
 |-|-|-|-|-|-|-|
 | (Battery) QB-44HL USB-C Battery for AT-878UV/DMR-6X2 | Anytone/BTECH | Yes                                  | INCOMPATIBLE!        | No                                              | Naughty! No USB-C Sink resistors, INCOMPATIBLE with USB-C cables and chargers.                                  | Tested by wojo @ HRCC Discord                    |          |
@@ -23,6 +24,7 @@ There have been good & bad implementations of USB-C brought to market (most radi
 | TD-H8 (Gen 2)                                        | TIDRADIO      |Yes      | INCOMPATIBLE!        | No                                              | Naughty! No USB-C Sink resistors, INCOMPATIBLE with USB-C cables and chargers.                                  | Tested by KK7LXU                                 |          |
 | X6100                                                | XIEGU         | N/A - Barrel plug charger                                  | N/A - Barrel plug charger                 | Yes - 1 USB2 Host port &amp; 1 USB2 Device port | Naughty! USB Device port has no USB-C Sink resistors, INCOMPATIBLE with USB-C cables. USB Host port untested. | Tested by KK7LXU                                 |          |
 | X6200                                                | XIEGU         | N/A - Barrel plug charger                                  | N/A - Barrel plug charger                 | Yes - 1 USB2 Host port &amp; 1 USB2 Device port | UNTESTED TBD                                                                                                    | UNTESTED                                         |          |
+
 
 ## How to Help
 Have or know about a USB-C radio not on the list? We want to know if works properly! Feel free to modify and submit Pull Request with any new radio product info, or just drop the information into an Issue (https://github.com/Animosity/USB-C-Radio-Roundup/issues)
