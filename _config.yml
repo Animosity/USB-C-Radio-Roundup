@@ -12,7 +12,9 @@ collections:
 
 # Title
 name: USB-C Ham Radio Roundup
-theme: jekyll-theme-hacker
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 title: USB-C Ham Radio Roundup
 description: Naughty or Nice? USB-C ham radio testing & reviews for charger compatiblity
 
