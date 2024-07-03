@@ -12,7 +12,7 @@ There have been good & bad implementations of USB-C brought to market (most radi
 | (Mod) IC-705 KD9LJF USB-C/SEND Control Board Upgrade | KD9LJF (Icom) |  Yes! | Yes - USB2 Device port. | Nice! Works with USB-C cables and chargers. | User Manual reference only
 | ID-50A  | Icom  |  Yes. Only with USB-A to USB-C cable! | Yes - USB2 Device port. | UNTESTED with USB-C to USB-C cables. | User Manual reference only
 |  HG-UV98 | LanchonLH  |  Yes with USB-A to USB-C cable. UNTESTED with USB-C cable & charger. | No | UNTESTED TBD | UNTESTED 
-| UV-K5  | Quansheng  |  Yes. Only with USB-A to USB-C adapter cable! | No | Naughty! No USB-C Sink terminations, cannot use USB-C cables and chargers. | Tested by KK7LXU 
+| UV-K5  | Quansheng  |  Yes. Only with USB-A to USB-C adapter cable! | No | Naughty! No USB-C Sink resistors, cannot use USB-C cables and chargers. | Tested by KK7LXU 
 | UV-K5(8)  | Quansheng  |  Yes. Only with USB-A to USB-C cable! | No | Naughty! No USB-C Sink terminations, cannot use USB-C cables and chargers. | Inferred by design similarity to Quansheng UV-K5
 | UV-K6  | Quansheng  |  Yes. Only with USB-A to USB-C cable! | No | Naughty! No USB-C Sink terminations, cannot use USB-C cables and chargers. | Inferred by design similarity to Quansheng UV-K5
 | RA79  | Retevis  |  Yes. Only with USB-A to USB-C cable! | No | Naughty! No USB-C Sink terminations, cannot use USB-C cables and chargers. | Inferred by design similarity to Quansheng UV-K5
