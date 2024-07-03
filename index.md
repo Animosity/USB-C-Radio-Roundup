@@ -1,3 +1,6 @@
+---
+layout: main
+---
 # USB-C Ham Radio Roundup
 
 This list is intended to inform ham/shortwave radio buyers about the available USB-C radios in the market and what their compatibility/quirks may be, and be perpetually updated by the community at-large.
