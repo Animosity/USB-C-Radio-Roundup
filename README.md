@@ -1,1 +1,2 @@
-View the USB-C Ham Radio Roundup @ https://github.com/Animosity/USB-C-Radio-Roundup/blob/main/index.md
+[View the USB-C Ham Radio Roundup
+](https://animosity.github.io/USB-C-Radio-Roundup/)
