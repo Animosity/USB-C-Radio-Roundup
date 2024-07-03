@@ -25,11 +25,11 @@ author:
 # For user/organization pages set this to an empty string
 # When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
 # See http://jekyllrb.com/docs/github-pages/ for more info
-baseurl: '/guides-template'
+baseurl: '/USB-C-Radio-Roundup'
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
-logourl: /assets/img/dc_logo.png
-logoalt: The D.C. flag
+#logourl: /assets/img/dc_logo.png
+#logoalt: The D.C. flag
 
 # Navigation
 # List links that should appear in the site sidebar here
