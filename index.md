@@ -23,7 +23,7 @@ There have been good & bad implementations of USB-C brought to market (most radi
 | X6200 | XIEGU  |  No. | 1 USB2 Host port & 1 USB2 Device port | UNTESTED TBD | UNTESTED
 
 ## How to Help
-Have or know about a USB-C radio not on the list? We want to know if works properly! Feel free to modify and submit Pull Request with any new radio product info.
+Have or know about a USB-C radio not on the list? We want to know if works properly! Feel free to modify and submit Pull Request with any new radio product info, or just drop the information into an Issue (https://github.com/Animosity/USB-C-Radio-Roundup/issues)
 
 ### What you need:
 1) A known-good USB-C to USB-C cable
