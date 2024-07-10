@@ -5,6 +5,7 @@ This list is intended to inform ham/shortwave radio buyers about the available U
 
 There have been good & bad implementations of USB-C brought to market (most radios still can't charge from proper USB-C cables and chargers!) and this table summarizes the basic facts about each radio's USB-C ports. 
 # Updates
+* July 10 2024 - Added Baofeng UV-9R results via K5RNL
 * July 9 2024 - Added Yintalk Quansheng-compatible battery results via K5RNL
 * July 8 2024 - Updated TIDRADIO TD-H3 results (USB C-to-C charging confirmed!) via KI5WDN
 * July 3 2024 - initialized list with 15 radios
