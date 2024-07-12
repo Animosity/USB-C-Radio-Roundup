@@ -5,7 +5,7 @@ This list is intended to inform ham/shortwave radio buyers about the available U
 
 There have been good & bad implementations of USB-C brought to market (most radios still can't charge from proper USB-C cables and chargers!) and this table summarizes the basic facts about each radio's USB-C ports. 
 # Updates
-* July 12 2024 - Added Baofeng UV-17R via Amazon review
+* July 12 2024 - Added Baofeng UV-17R via KE9BAH
 * July 10 2024 - Added Baofeng UV-9R results via K5RNL
 * July 9 2024 - Added Yintalk Quansheng-compatible battery results via K5RNL
 * July 8 2024 - Updated TIDRADIO TD-H3 results (USB C-to-C charging confirmed!) via KI5WDN
@@ -17,7 +17,7 @@ There have been good & bad implementations of USB-C brought to market (most radi
 | (Battery) QB-44HL USB-C Battery for AT-878UV/DMR-6X2 | Anytone/BTECH | Yes                                  | INCOMPATIBLE!        | No                                              | Naughty! No USB-C Sink resistors, INCOMPATIBLE with USB-C cables and chargers.                                  | Tested by wojo @ HRCC Discord                    |          |
 | UV-5RH PRO MAX                                       | Baofeng       | Yes                                  | Yes (5V)                  | No                                              | Nice! This radio works correctly. Battery model# BL-5RH.                                                        | Tested by VK3PGO                                 |          |
 | UV-9R                                       | Baofeng       | Yes                                  | Yes (5V)                  | No                                              | Nice! This radio works correctly. Battery model# BL-9.           | Tested by K5RNL 
-| UV-17R                                      | Baofeng       | Yes                                  | INCOMPATIBLE!                | No                                              |Naughty! No USB-C Sink resistors, INCOMPATIBLE with USB-C cables and chargers. Battery model# RL-17            | From Amazon review comment @ https://www.amazon.com/gp/customer-reviews/R2I3L73I31LH6M/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0C8MVGNXS
+| UV-17R                                      | Baofeng       | Yes                                  | INCOMPATIBLE!                | No                                              |Naughty! No USB-C Sink resistors, INCOMPATIBLE with USB-C cables and chargers. Battery model# RL-17            | Tested by KE9BAH
 | (Mod) IC-705 KD9LJF USB-C/SEND Control Board Upgrade | KD9LJF (Icom) | Yes                                  | Yes (5V)                 | Yes - USB2 Device port.                         | Nice! COMPATIBLE with USB-C cables and chargers.                                                                | User Manual reference only                       |          |
 | ID-50A                                               | Icom          | Yes | UNTESTED TBD         | Yes - USB2 Device port.                         | UNTESTED with USB-C to USB-C cables.                                                                            | User Manual reference only                       |          |
 | HG-UV98                                              | LanchonLH     | Yes                                  | INCOMPATIBLE!        | UNTESTED TBD         | No                                                                                                 | UNTESTED                                         | UNTESTED |
