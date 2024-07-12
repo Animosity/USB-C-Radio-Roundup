@@ -5,7 +5,7 @@ This list is intended to inform ham/shortwave radio buyers about the available U
 
 There have been good & bad implementations of USB-C brought to market (most radios still can't charge from proper USB-C cables and chargers!) and this table summarizes the basic facts about each radio's USB-C ports. 
 # Updates
-* July 12 2024 - Added Baofeng UV-17R via KE9BAH
+* July 12 2024 - Added Baofeng UV-17R via KE9BAH, added ID-50 result via K5VOL
 * July 10 2024 - Added Baofeng UV-9R results via K5RNL
 * July 9 2024 - Added Yintalk Quansheng-compatible battery results via K5RNL
 * July 8 2024 - Updated TIDRADIO TD-H3 results (USB C-to-C charging confirmed!) via KI5WDN
@@ -19,7 +19,7 @@ There have been good & bad implementations of USB-C brought to market (most radi
 | UV-9R                                       | Baofeng       | Yes                                  | Yes (5V)                  | No                                              | Nice! This radio works correctly. Battery model# BL-9.           | Tested by K5RNL 
 | UV-17R                                      | Baofeng       | Yes                                  | INCOMPATIBLE!                | No                                              |Naughty! No USB-C Sink resistors, INCOMPATIBLE with USB-C cables and chargers. Battery model# RL-17            | Tested by KE9BAH
 | (Mod) IC-705 KD9LJF USB-C/SEND Control Board Upgrade | KD9LJF (Icom) | Yes                                  | Yes (5V)                 | Yes - USB2 Device port.                         | Nice! COMPATIBLE with USB-C cables and chargers.                                                                | User Manual reference only                       |          |
-| ID-50A                                               | Icom          | Yes | UNTESTED TBD         | Yes - USB2 Device port.                         | UNTESTED with USB-C to USB-C cables.                                                                            | User Manual reference only                       |          |
+| ID-50A                                               | Icom          | Yes | Yes (5V)        | Yes - USB2 Device port.                         | Nice! This radio works correctly. COMPATIBLE with USB-C cables and chargers.                                                                           | Tested by K5VOL                      |          |
 | HG-UV98                                              | LanchonLH     | Yes                                  | INCOMPATIBLE!        | UNTESTED TBD         | No                                                                                                 | UNTESTED                                         | UNTESTED |
 | (Battery) UV-K5/K6/K58/5R 7.4V@3500mAh                    | Yintalk (Quansheng-compatible)     | Yes                                  | Yes (5V)       | N/A                                              | Nice! This battery's connector works correctly.                                  | Tested by K5RNL (Product Link: https://www.aliexpress.us/item/3256807133512324.html)                                |          |
 | UV-K5                                                | Quansheng     | Yes                                  | INCOMPATIBLE!        | No                                              | Naughty! No USB-C Sink resistors, INCOMPATIBLE with USB-C cables and chargers.                                  | Tested by KK7LXU                                 |          |
