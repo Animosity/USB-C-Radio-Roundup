@@ -10,7 +10,6 @@ There have been good & bad implementations of USB-C brought to market (most radi
 * July 9 2024 - Added Yintalk Quansheng-compatible battery results via K5RNL
 * July 8 2024 - Updated TIDRADIO TD-H3 results (USB C-to-C charging confirmed!) via KI5WDN
 * July 3 2024 - initialized list with 15 radios
-https://www.amazon.com/gp/customer-reviews/R2I3L73I31LH6M/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0C8MVGNXS
   
 # USB-C Radios Tested
 | Radio Product Name                                   | Vendor        | USB A-to-C Charging?                 | USB C-to-C Charging? | USB-C Data?                                     | Notes                                                                                                           |                 Reference/Source                           |
